@@ -48,3 +48,5 @@ partOf: ""
 connectsTo: ""
 
 runtime: nodejs
+
+connectsTo: inventory-management-svc-fo1
